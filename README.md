@@ -31,6 +31,18 @@
 ```bash
 $ pnpm install
 ```
+```bash
+$ nest g resource users
+```
+```bash
+$ nest g module auth --no-spec
+```
+```bash
+$ nest g service auth --no-spec
+```
+```bash
+$ nest g controller auth --no-spec
+```
 
 ## Compile and run the project
 
